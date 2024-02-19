@@ -1,0 +1,89 @@
+@import url(https://fonts.google.com/share?selection.family=Figtree:ital,wght@0,300..900;1,300..900);
+
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+
+* {
+  background-color: hsl(47, 88%, 63%);
+}
+
+.box {
+  background-color: white;
+  height: 300px;
+  width: 250px;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border: 1px solid black;
+  border-radius: 10px;
+  box-shadow: 0px 0px 100px rgba(0, 0, 0, 0.1);
+}
+
+img {
+  height: 130px;
+  position: fixed;
+  margin-left: 15px;
+  margin-top: 15px;
+  border-radius: 10px;
+}
+
+.Learning {
+  margin-top: 150px;
+  margin-left: 15px;
+  display: inline-block;
+  padding: 5px 10px;
+  border-radius: 10px;
+  border: 1px transparent;
+  font-family: "Figtree", sans-serif;
+  text-align: center;
+  font-size: 12px;
+  position: relative;
+ 
+}
+
+.Learning h4 {
+  margin: 0;
+}
+
+.Date {
+  background-color: white;
+}
+
+.Date p {
+  font-family: "Figtree", sans-serif;
+  background-color: white;
+  font-size: 10px;
+  margin-left: 15px;
+  font-weight: 600;
+}
+
+.foundations {
+  font-family: "Figtree", sans-serif;
+  font-size: 16px;
+  margin-left: 15px;
+  margin-top: -10px;
+  background-color: white ;
+}
+
+.foundations h4 {
+  background-color: white;
+}
+
+.information {
+  font-family: "Figtree", sans-serif;
+  margin-left: 15px;
+  font-size: 11px;
+  margin-top: -15px;
+  color: grey;
+}
+
+.information p {
+  background-color: white;
+}
+
+
+
+
+
+
